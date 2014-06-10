@@ -1,6 +1,6 @@
 
 Show Poker Rules
-Version 5.1
+Version 5.2
 June 10, 2014
 
 1 Introduction
@@ -94,3 +94,7 @@ Show poker is the highly entertaining game where people are dealt 4 cards and in
     3.2.5 "nut flush" refers to a flush which cannot be beaten by another flush of the same suit unless it is a straight flush.
     3.2.6 "the nuts" refers to the best possible hand given the visible cards on the table at the time of the declaration. It is a prohibited declaration and fails to any challenge.
 
+4 Examples
+
+4.1 Declarations
+    4.1.1 The board is 257. The first player to act reveals a 2 of clubs and states "2 with the board". This means "2 high with a 7 and a 5 as kickers".
