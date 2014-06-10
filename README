@@ -1,3 +1,4 @@
-07th June 2014.
+10th June 2014.
 
-Started typesetting the rules. Setup a new rule numbering system.
+Setup the rule publishing system. All new rules should go into Rules.txt, and when this file is altered, the version number of the rules should be incremented accordingly. The HTML file and the latex file of the rules 
+are to be derived from the Rules.txt
